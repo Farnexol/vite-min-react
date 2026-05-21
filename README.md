@@ -17,7 +17,3 @@ vite-react-min/
 ```
 
 ---
-
-## 📜 License
-
-MIT License — free to use, modify, and share.
